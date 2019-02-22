@@ -21,7 +21,9 @@ public class Bateau {
 
 	@Override
 	public String toString() {
+
 		return "Bateau qsddqsd[nom=" + nom + "//]";
+
 	}
 	
 	
