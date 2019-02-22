@@ -22,7 +22,7 @@ public class Bateau {
 	@Override
 	public String toString() {
 
-		return "Bateau qsdwxdghfghqsd[nom=" + nom + "//]";
+		return "Bateau qsdwxdghfghfdsdfsdqsd[nom=" + nom + "//]";
 
 	}
 	
